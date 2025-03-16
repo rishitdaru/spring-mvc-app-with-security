@@ -1,4 +1,4 @@
-package com.mvc.secure_app;
+package com.mvc.secureapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
